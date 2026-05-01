@@ -26,7 +26,7 @@ manual testing and my learning journey in automation using Playwright.
 ## 🛠 Tools & Skills
 - Manual Testing: Functional, Regression, UAT
 - Automation: Playwright (JavaScript / TypeScript)
-- Tools: Jira, Azure DevOps, GitHub, VS Code, Excel
+- Tools: Trello, Azure DevOps, GitHub, VS Code, Excel
 
 ---
 
