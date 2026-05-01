@@ -38,3 +38,11 @@ This portfolio is intended to demonstrate:
 
 > Note: Most of my professional work is in company-managed repositories that cannot be shared publicly.  
 > This portfolio contains representative samples for demonstration purposes.
+
+---
+
+## 📂 Repository Structure
+
+- `README.md` – Main portfolio overview  
+- `manual-testing/` – Manual test cases, bug reports, and test plans  
+- `automation-testing/` – Playwright automation samples (added later)
